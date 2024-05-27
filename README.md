@@ -1,6 +1,6 @@
 This smart contract implements a basic decentralized social network platform on the Ethereum blockchain. Users can create and share content, search for content based on keywords,
 
- leave comments, and join groups (group functionality not fully implemented yet). The platform utilizes roles (User and Moderator) to control access to certain actions.
+ leave comments, and join groups (group Functionality not fully implemented yet). The platform utilizes roles (User and Moderator) to control access to certain actions.
 
 Features:
 
